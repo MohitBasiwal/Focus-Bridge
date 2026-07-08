@@ -1,0 +1,6 @@
+{
+  "name": "Focus Bridge",
+  "description": "A digital discipline platform to eliminate digital distractions and help students strictly follow their study timetable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
