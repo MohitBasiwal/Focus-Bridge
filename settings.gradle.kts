@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "FocusBridge"
-include(":app")\n
+include(":app")
