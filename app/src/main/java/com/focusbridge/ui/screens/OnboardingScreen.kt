@@ -38,4 +38,4 @@ fun OnboardingScreen(onComplete: () -> Unit) {
             Text("Get Started")
         }
     }
-}\n
+}

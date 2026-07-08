@@ -11,4 +11,4 @@ data class TimetableEntity(
     val startTime: String,
     val endTime: String,
     val focusModeEnabled: Boolean
-)\n
+)

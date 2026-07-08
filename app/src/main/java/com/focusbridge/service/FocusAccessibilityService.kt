@@ -22,4 +22,4 @@ class FocusAccessibilityService : AccessibilityService() {
         super.onServiceConnected()
         Log.d("FocusAccessibility", "Service Connected")
     }
-}\n
+}

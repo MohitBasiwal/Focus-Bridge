@@ -30,4 +30,4 @@ object AppModule {
     fun provideTimetableDao(database: AppDatabase): TimetableDao {
         return database.timetableDao()
     }
-}\n
+}

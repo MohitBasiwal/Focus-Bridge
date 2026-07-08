@@ -18,4 +18,4 @@ class SessionWorker @AssistedInject constructor(
         Log.d("SessionWorker", "Checking active timetables and automating Focus Mode")
         return Result.success()
     }
-}\n
+}

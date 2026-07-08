@@ -30,4 +30,4 @@ fun DashboardScreen() {
             color = MaterialTheme.colorScheme.onSurfaceVariant
         )
     }
-}\n
+}

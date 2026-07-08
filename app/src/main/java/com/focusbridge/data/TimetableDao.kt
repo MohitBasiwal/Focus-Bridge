@@ -14,4 +14,4 @@ interface TimetableDao {
 
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun insertTimetable(timetable: TimetableEntity)
-}\n
+}

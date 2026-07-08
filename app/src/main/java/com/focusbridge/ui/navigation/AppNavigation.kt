@@ -23,4 +23,4 @@ fun AppNavigation(navController: NavHostController) {
             DashboardScreen()
         }
     }
-}\n
+}

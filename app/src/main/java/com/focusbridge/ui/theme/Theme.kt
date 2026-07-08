@@ -54,4 +54,4 @@ fun FocusBridgeTheme(
         colorScheme = colorScheme,
         content = content
     )
-}\n
+}
